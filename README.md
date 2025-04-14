@@ -18,13 +18,7 @@ The main goal of this dashboard is to help the business understand:
 - **Excel / CSV** – Data cleaning and transformation (if used)
 - **DAX** – For creating calculated columns and measures
 
-## 📁 Project File
 
-You can download or view the Power BI report from this repository:
-
-> 📂 [Click here to view/download the Power BI File](https://github.com/your-username/your-repo-name/blob/main/Ecoom%20project.pbix)
-
-*(Note: Replace the link with your actual GitHub file link once uploaded)*
 
 ## 📷 Dashboard Preview
 
