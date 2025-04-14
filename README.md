@@ -28,7 +28,8 @@ You can download or view the Power BI report from this repository:
 
 ## 📷 Dashboard Preview
 
-> _(Insert a screenshot of your dashboard here for better impact – you can use Snipping Tool or Power BI's "Export as Image" feature and upload it to the repo.)_
+![Dashboard Screenshot](https://github.com/rishavnirwan/PowerBI-Ecommerce-Sales-Analysis/blob/main/E-com%20pic.PNG)
+
 
 ## ✅ Key Insights
 
